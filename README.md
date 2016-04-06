@@ -1,6 +1,6 @@
 # Gradle Java Quickstart
 
-This is a simple skeleton program for Gradle Java project. To us it,
+This is a simple skeleton program for Gradle Java project. To use it,
 clone the repo, then add and change Java files. Customize build.gradle
 and settings.gradle as well.
 
